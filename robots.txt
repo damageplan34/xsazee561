@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /xsazee561
+
+User-agent: Yandex
+Crawl-delay: 5
